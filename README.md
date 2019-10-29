@@ -1,3 +1,3 @@
 # layer 2
-J - left click
-K - right click
+- J - left click
+- K - right click
